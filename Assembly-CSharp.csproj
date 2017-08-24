@@ -63,7 +63,6 @@
      <Compile Include="Assets\Unser Projekt\Scripts\Startseitenskript.cs" />
      <Compile Include="Assets\Unser Projekt\Scripts\TabScript.cs" />
      <Compile Include="Assets\Unser Projekt\Scripts\UIimSpiel_Skript.cs" />
-     <Compile Include="Assets\Unser Projekt\Scripts\audio.cs" />
      <Compile Include="Assets\Unser Projekt\Scripts\movingSwanScript.cs" />
      <Compile Include="Assets\Unser Projekt\Sprites\MovingScript.cs" />
      <None Include="Assets\Unser Projekt\TextMesh Pro\Resources\LineBreaking Leading Characters.txt" />
