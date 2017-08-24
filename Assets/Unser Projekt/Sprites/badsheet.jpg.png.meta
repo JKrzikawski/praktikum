@@ -1,0 +1,667 @@
+fileFormatVersion: 2
+guid: 168e37365442d6d498f00afc59263402
+timeCreated: 1502361260
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: badsheet.jpg_0
+    21300002: badsheet.jpg_1
+    21300004: badsheet.jpg_2
+    21300006: badsheet.jpg_3
+    21300008: badsheet.jpg_4
+    21300010: badsheet.jpg_5
+    21300012: badsheet.jpg_6
+    21300014: badsheet.jpg_7
+    21300016: badsheet.jpg_8
+    21300018: badsheet.jpg_9
+    21300020: badsheet.jpg_10
+    21300022: badsheet.jpg_11
+    21300024: badsheet.jpg_12
+    21300026: badsheet.jpg_13
+    21300028: badsheet.jpg_14
+    21300030: badsheet.jpg_15
+    21300032: badsheet.jpg_16
+    21300034: badsheet.jpg_17
+    21300036: badsheet.jpg_18
+    21300038: badsheet.jpg_19
+    21300040: badsheet.jpg_20
+    21300042: badsheet.jpg_21
+    21300044: badsheet.jpg_22
+    21300046: badsheet.jpg_23
+    21300048: badsheet.jpg_24
+    21300050: badsheet.jpg_25
+    21300052: badsheet.jpg_26
+    21300054: badsheet.jpg_27
+    21300056: badsheet.jpg_28
+    21300058: badsheet.jpg_29
+    21300060: badsheet.jpg_30
+    21300062: badsheet.jpg_31
+    21300064: badsheet.jpg_32
+    21300066: badsheet.jpg_33
+    21300068: badsheet.jpg_34
+    21300070: badsheet.jpg_35
+    21300072: badsheet.jpg_36
+    21300074: badsheet.jpg_37
+    21300076: badsheet.jpg_38
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: badsheet.jpg_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 884
+        width: 166
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: badsheet.jpg_1
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 884
+        width: 81
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: badsheet.jpg_2
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 884
+        width: 81
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: badsheet.jpg_3
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 884
+        width: 84
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: badsheet.jpg_4
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 884
+        width: 164
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: badsheet.jpg_5
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 884
+        width: 81
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: badsheet.jpg_6
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 744
+        width: 249
+        height: 277
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: badsheet.jpg_7
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 883
+        width: 81
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: badsheet.jpg_8
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 883
+        width: 81
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: badsheet.jpg_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 740
+        width: 83
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: badsheet.jpg_10
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 743
+        width: 164
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: badsheet.jpg_11
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 743
+        width: 81
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: badsheet.jpg_12
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 608
+        width: 114
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: badsheet.jpg_13
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 752
+        width: 119
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: badsheet.jpg_14
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 608
+        width: 118
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: badsheet.jpg_15
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 608
+        width: 121
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: badsheet.jpg_16
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 606
+        width: 107
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: badsheet.jpg_17
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 607
+        width: 104
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: badsheet.jpg_18
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 608
+        width: 104
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: badsheet.jpg_19
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 606
+        width: 100
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: badsheet.jpg_20
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 606
+        width: 96
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: badsheet.jpg_21
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 604
+        width: 97
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: badsheet.jpg_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 468
+        width: 97
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: badsheet.jpg_23
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 470
+        width: 99
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: badsheet.jpg_24
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 468
+        width: 104
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: badsheet.jpg_25
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 472
+        width: 107
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: badsheet.jpg_26
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 476
+        width: 116
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: badsheet.jpg_27
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 476
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: badsheet.jpg_28
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 475
+        width: 112
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: badsheet.jpg_29
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 474
+        width: 102
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: badsheet.jpg_30
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 472
+        width: 103
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: badsheet.jpg_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 336
+        width: 106
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: badsheet.jpg_32
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 335
+        width: 98
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: badsheet.jpg_33
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 332
+        width: 94
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: badsheet.jpg_34
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 332
+        width: 98
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: badsheet.jpg_35
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 332
+        width: 104
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: badsheet.jpg_36
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 332
+        width: 108
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: badsheet.jpg_37
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 332
+        width: 111
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: badsheet.jpg_38
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 332
+        width: 112
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
